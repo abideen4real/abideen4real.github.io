@@ -1,0 +1,30 @@
+
+            h1 {color: red;
+            font-style: san serif;}
+            h3 {color: blue; font-size: 20px;
+            background-color: aqua;
+                font-style: san serif;}
+            #contact{color:brown;
+            font-size: 20px;}
+            #objective{color: green;
+            font-size: 20px;}
+            #personal{color:orangered;
+            font-size: 20px}
+            #skills{color:indigo;
+            font-size: 20px;}
+            #education{color:lightcoral;
+            font-size: 20px;}
+            .qualifications{color:royalblue;
+            font-size: 20px}
+            .experience{color:green;
+            font-size: 20px;}
+            #computer{color:lime;
+            font-size: 20px;}
+            #hobbies{color:indigo;
+            font-size: 20px}
+            .reference {color:red;
+            font-size: 20px}
+            .container { max-width: 350px; width: 100%; margin: 0px auto; position: relative; float: right; 
+                background-color:  #99FFCC; border: 1px solid indigo;}
+                #leg{color: red}
+             #contact-submit:hover,#contact-Reset:hover {background: orange;}
